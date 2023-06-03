@@ -4,9 +4,9 @@ public class sodaCanDF {
     private double radius;
     private double height;
 
-    public sodaCanDF(double r, double h) {
+    public sodaCanDF(double d, double h) {
 
-        radius = (r / 2);
+        radius = (d / 2);
         height = h;
     }
 
