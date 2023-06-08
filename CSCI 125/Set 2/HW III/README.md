@@ -1,6 +1,6 @@
 # Homework Task
 
-Write a program that converts a user's entered measurement in meters and convert it into miles, feet, and inches. I designed the class to work as a independent converter meaning that to use the conversion of miles, a `Converter` object is created with the conversion as a `double` indicated in the constructor. 
+Write a program that converts a user's entered measurement in meters and convert it into miles, feet, and inches. I designed the class to work as an independent converter meaning that to use the conversion of miles, a `Converter` object is created with the conversion as a `double` indicated in the constructor. 
 
 ### Code Sample:
 
