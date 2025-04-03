@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 
 public class ATM {
-    
+
     //instance variables
     private static int account;
     private static int pin;
